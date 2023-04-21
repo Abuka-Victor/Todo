@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "A todo application using React and Node",
+  "workspaces": [
+    "App/backend",
+    "App/frontend"
+  ],
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Abuka-Victor/Todo.git"
+  },
+  "keywords": [],
+  "author": "Abuka Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abuka-Victor/Todo/issues"
+  },
+  "homepage": "https://github.com/Abuka-Victor/Todo#readme"
+}
